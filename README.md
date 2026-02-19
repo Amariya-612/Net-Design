@@ -57,12 +57,6 @@ Each department is logically separated using VLANs while connected to a central 
       7.Diagram
 <img width="781" height="428" alt="Net Design" src="https://github.com/user-attachments/assets/7e6954b3-8bbc-4881-bfff-37ee36b858ec" />
 
-     8.Project Objectives
-
- Understand VLAN implementation
- Practice subnetting and IP addressing
- Configure trunking and inter-VLAN routing
- Simulate a real-world small office network
 
 
   Amariya Tesfaw
