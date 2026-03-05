@@ -1,8 +1,6 @@
           Simple Office Network Design
 
-This project demonstrates a Simple Office Network Design created using Cisco Packet Tracer.  
-The network is designed for a small office environment with three departments:
-
+The project demonstrates a Simple Office Network Design using Cisco Packet Tracer with three departments.
    Admin (VLAN 10)
    Finance (VLAN 20)
    Customer (VLAN 30)
